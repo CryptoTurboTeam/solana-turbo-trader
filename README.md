@@ -44,8 +44,7 @@ To run the script you need to:
 - Install dependencies by typing: `npm install`
 - Run the script by typing: `npm run start` in terminal
 
-You should be able to see the following output along with many configurations you completed in the `.env` file:
-![output](readme/output.png)
+You should be able to see the following output along with many configurations you completed in the `.env` file
 
 ### Configuration
 
